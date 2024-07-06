@@ -3,7 +3,7 @@
 
 ![Screenshot (58)](https://github.com/puspalata121/PRODIGY_FS_01/blob/main/Screenshot%20(58).png)
 
-# Tech Stacks Used:
+
 # Frontend : 
 HTML , CSS , JS
 
