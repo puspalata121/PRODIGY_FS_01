@@ -1,5 +1,5 @@
 # OUTPUT SCREEN:
-![Screenshot (57)]()
+![Screenshot (57)](https://github.com/puspalata121/PRODIGY_FS_01/blob/main/Screenshot%20(57).png)
 
 ![Screenshot (58)]()
 
